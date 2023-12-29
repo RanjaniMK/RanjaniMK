@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ranjani
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ranjani :-)
 ===============================================================================================================================
 
 Software Engineer
 -----------------
 
-I am from Bangalore, India.
+I am currently pursuing my career in Front End Development using HTML, CSS and Javascript.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [ranjanimk3@gmail.com](mailto:ranjanimk3@gmail.com)
